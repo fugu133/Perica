@@ -13,3 +13,7 @@ SATAケーブルで通信を行うという珍しい設計になっています�
 
 ## 作成例
 <img src="https://user-images.githubusercontent.com/62766332/222442999-996dd7e3-509c-4c25-8ef9-477c010fd081.png" width="320">
+
+## 動作例
+<video controls width="320" src="https://user-images.githubusercontent.com/62766332/225111963-716b9bb1-7227-4d82-8061-c68b7f025649.mp4"></video>
+
